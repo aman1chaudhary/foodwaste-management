@@ -241,9 +241,9 @@ button:hover {
     padding-top: 0;
     padding-bottom: 0;
     margin-right: 0rem;
-    width: 75px;
-    margin-bottom: 0px;
-    margin-top: -10px;
+    width: 65px;
+    /* margin-bottom: 0px; */
+    /* margin-top: -10px; */
 }
 
 .navbar-light .navbar-toggler {
@@ -646,7 +646,7 @@ button:hover {
 
 .quote-statement {
     font-size: 60px;
-    width: 630px;
+    /* width: 630px; */
     font-weight: 600;
     color: #fff;
     text-transform: capitalize;

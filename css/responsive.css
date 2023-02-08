@@ -974,6 +974,14 @@
             font-size: 12px;
             width: auto;
         }
+        .methodology_content p {
+            font-size: 12px;
+            font-weight: 400;
+            color: #727474;
+            line-height: 1.5;
+            margin: 10px;
+
+        }
 
         /*-------------------------------------------*/
         /*Header part*/
@@ -1042,13 +1050,18 @@
         .full-about .about-content h3 {
             font-size: 26px;
         }
+        .about-details{
+            margin: 10px;
 
-        .full-about .about-content .about-details p {
+        }
+
+         .about-details p {
             font-size: 16px;
             font-weight: 400;
             width: auto;
             line-height: 1.6;
             margin-top: 12px;
+            
         }
 
         .about-icon-text .abt-icon {
